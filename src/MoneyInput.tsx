@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 import { InputUtils, SeparatorSymbols } from "./input";
 import { KeyCodeEnum } from "./types";
-import { Container, StyledMoneyInput, ErrorText } from "./styles";
+import { Container, StyledMoneyInput, ErrorText } from "./MoneyInput.style";
 
 interface Props {
   setInputNumber: (input: number) => void;

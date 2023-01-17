@@ -2,7 +2,7 @@
 
 ### TODO:
 
-[] Option to enable a default value -> format number to string
-[] Option to disable integer separators
-[] Option to disable decimals
-[] Option to enable negative values
+- [ ]  Option to enable a default value 
+- [ ]  Option to disable decimals
+- [ ]  Option to enable negative values
+- [ ]  Option to disable integer separators
